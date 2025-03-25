@@ -21,3 +21,25 @@ recruiters to focus on high-potential profiles.
 candidate based on their resume content and job market trends.
 6. Evaluate & Improve Matching Accuracy – Measure model performance using accuracy, precision,
 recall, and F1-score, ensuring high-quality recommendations.
+
+# WorkFlow of the Project
+<img width="1039" alt="Screenshot 2025-03-25 at 13 39 10" src="https://github.com/user-attachments/assets/93f6e314-bffb-4afa-a00c-110b11b141d2" />
+
+
+# EDA
+1. Most Required Skills in Job Descriptions
+<img width="474" alt="Screenshot 2025-03-25 at 13 36 52" src="https://github.com/user-attachments/assets/197485d2-1e55-429d-8218-a7a8cef8e0af" />
+
+2. Most Frequent Skills in Resumes
+<img width="474" alt="Screenshot 2025-03-25 at 13 37 19" src="https://github.com/user-attachments/assets/9011aeac-fe1d-4833-bb4b-56e14c12f886" />
+
+3. Word Cloud of Skills in Resumes and Job Descriptions
+<img width="895" alt="Screenshot 2025-03-25 at 13 38 16" src="https://github.com/user-attachments/assets/b4616960-74ab-4da9-93f1-fd87de0f276a" />
+
+# Model Performance
+<img width="786" alt="Screenshot 2025-03-25 at 13 40 24" src="https://github.com/user-attachments/assets/e163fe09-e5e2-49a0-81ab-a86aa807cab4" />
+
+
+# Results
+<img width="893" alt="Screenshot 2025-03-25 at 13 40 44" src="https://github.com/user-attachments/assets/3af1f627-5e64-4102-a4b0-d73ae87e6107" />
+
